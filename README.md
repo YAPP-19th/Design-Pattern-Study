@@ -33,6 +33,7 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
+|노지환|[데코레이터 패턴](https://mountainous-grill-560.notion.site/8e907c713af54bbaa31f18844987fea0)|
 
 
 ### 팩토리 패턴
@@ -56,6 +57,7 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
+|한지희|[어댑터 패턴](https://github.com/YAPP-19th/Design-Pattern-Study/pull/4)|
 
 ### 퍼사드 패턴
 
