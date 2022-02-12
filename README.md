@@ -63,11 +63,13 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
+|문지은|[퍼사드 패턴](https://github.com/YAPP-19th/Design-Pattern-Study/blob/main/Facade-Pattern/%5B%238%EC%9E%A5%5D%5B%EB%AC%B8%EC%A7%80%EC%9D%80%5D%5B%ED%8D%BC%EC%82%AC%EB%93%9C%ED%8C%A8%ED%84%B4%5D.md)|
 
-### 템플릿 메소드 패턴
+### 템플릿메소드 패턴
 
 | 발표자 | 발표자료 |
 |------|--------|
+|이주현|[템플릿메소드 패턴](https://github.com/YAPP-19th/Design-Pattern-Study/blob/main/TemplateMethod-Pattern/9%EC%9E%A5_%ED%85%9C%ED%94%8C%EB%A6%BF%EB%A9%94%EC%86%8C%EB%93%9C%ED%8C%A8%ED%84%B4_%EC%9D%B4%EC%A3%BC%ED%98%84.md)|
 
 ### 이터레이터 패턴
 
