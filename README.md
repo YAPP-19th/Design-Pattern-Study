@@ -17,7 +17,7 @@
 - [노지환](https://github.com/Ji-Ha)
 - [문지은](https://github.com/s2moon98)
 - [한지희](https://github.com/jihee-dev)
-- [정세희](https://github.com/jsh-me)
+- ~[정세희](https://github.com/jsh-me)~
 
 <br>
 
@@ -52,6 +52,7 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
+|노지환|[커맨드 패턴](https://mountainous-grill-560.notion.site/a60ae70525a14a06bfc5ce95e2928c17)|
 
 ### 어댑터 패턴
 
