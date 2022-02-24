@@ -86,6 +86,7 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
+|이주현|[스테이트 패턴](https://github.com/YAPP-19th/Design-Pattern-Study/blob/main/State-Pattern/12%EC%9E%A5_%EC%83%81%ED%83%9C%ED%8C%A8%ED%84%B4_%EC%9D%B4%EC%A3%BC%ED%98%84.md)
 
 ### 프록시 패턴
 
