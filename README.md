@@ -76,11 +76,13 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
+|한지희|[이터레이터 패턴](https://plat2.notion.site/10-df60bd97b9fc4f1ca2dfb9ba0d110e79)
 
 ### 컴포지트 패턴
 
 | 발표자 | 발표자료 |
 |------|--------|
+|문지은|[컴포지트 패턴](https://github.com/YAPP-19th/Design-Pattern-Study/blob/main/Composite-Pattern/11%EC%9E%A5_%EC%BB%B4%ED%8F%AC%EC%A7%80%ED%8A%B8%ED%8C%A8%ED%84%B4_%EB%AC%B8%EC%A7%80%EC%9D%80.md)
 
 ### 스테이트 패턴
 
@@ -92,6 +94,7 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
+|이주현|[프록시 패턴](https://github.com/YAPP-19th/Design-Pattern-Study/blob/main/Proxy-Pattern/13%EC%9E%A5_%ED%94%84%EB%A1%9D%EC%8B%9C%ED%8C%A8%ED%84%B4_%EC%9D%B4%EC%A3%BC%ED%98%84.md)
 
 ### 컴파운드 패턴
 
