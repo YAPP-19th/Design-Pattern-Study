@@ -105,8 +105,11 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
+|문지은|[빌더 패턴](https://github.com/YAPP-19th/Design-Pattern-Study/blob/main/Builder-Pattern/%EB%B9%8C%EB%8D%94%ED%8C%A8%ED%84%B4_%EB%AC%B8%EC%A7%80%EC%9D%80.md)
+
 
 ### 전략 패턴
 
 | 발표자 | 발표자료 |
 |------|--------|
+|노지환|[전략 패턴](https://mountainous-grill-560.notion.site/09d333d821b7490187bccd2cdc5f91ef)
